@@ -1,5 +1,4 @@
 {
-  
   "name": "nodejs-cicd-sample",
   "version": "0.0.1",
   "description": "A sample project to be used as CI/CD for NodeJS",
